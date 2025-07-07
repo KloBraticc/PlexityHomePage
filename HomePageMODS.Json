@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Maow Editor",
+    "Description": "A nice clean editor for your WOW.",
+    "DownloadLink": "https://github.com/yourrepo/maoweditor/releases/download/v1.0/maoweditor.zip",
+    "BackgroundImage": "https://raw.githubusercontent.com/KloBraticc/PluginsPagePlexity/main/Icons/djkxxee-483a8d71-fcb7-498a-9dd0-c864c4cd8d04.png"
+  },
+  {
+    "Name": "Another Mod",
+    "Description": "Some other cool mod.",
+    "DownloadLink": "https://github.com/yourrepo/anothermod/releases/download/v2.0/anothermod.zip",
+    "BackgroundImage": "https://raw.githubusercontent.com/KloBraticc/PluginsPagePlexity/main/Icons/djkxxee-483a8d71-fcb7-498a-9dd0-c864c4cd8d04.png"
+  }
+]
